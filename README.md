@@ -1,2 +1,1 @@
-# PrepCourseHenry
-Prep Course Henry mayo 2023
+prueba de como crear un repositorio y clonarlo desde github a mi computadora
